@@ -10,12 +10,15 @@ Cannot be null
 ### - name :
 
 Cannot be null
+
 Length more than 4
 
 ### - username : 
 
 Cannot be null
+
 Length more than 4
+
 must be unique
 
 
@@ -27,19 +30,23 @@ Cannot be null
 ### - email : 
 
 Cannot be null
+
 must be valid email 
+
 must be unique
 
 
 ### - role :
 
 Cannot be null
+
 must be user or admin only
 
 
 ### - age
 
 Cannot be null 
+
 must be integer
 
 
