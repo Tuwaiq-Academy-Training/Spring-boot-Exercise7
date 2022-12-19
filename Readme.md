@@ -3,17 +3,17 @@ User class: ID , name , username , password, email ,role, age
 
 ## Validation :
 
-### - ID :
+###  ID :
 
 Cannot be null
 
-### - name :
+###  name :
 
 Cannot be null
 
 Length more than 4
 
-### - username : 
+###  username : 
 
 Cannot be null
 
@@ -22,12 +22,12 @@ Length more than 4
 must be unique
 
 
-### - password :
+###  password :
 
 Cannot be null
 
 
-### - email : 
+###  email : 
 
 Cannot be null
 
@@ -36,18 +36,19 @@ must be valid email
 must be unique
 
 
-### - role :
+###  role :
 
 Cannot be null
 
 must be user or admin only
 
 
-### - age
+###  age
 
 Cannot be null 
 
 must be integer
+
 
 
 Use project lombok - Validation - Service layer - Repository layer
