@@ -58,3 +58,7 @@ Use project lombok - Validation - Service layer - Repository layer
 - Add new User 
 - Update User 
 - Delete User
+- Check if username and password are correct
+- Get user by email
+- Get All users with specific role
+- Get All users with specific age or above
